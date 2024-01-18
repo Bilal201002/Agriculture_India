@@ -2,6 +2,6 @@ The Dataset is containing information about Agriculture in India from 1966 to 20
 crops.
 
 Objective :
-The aim of the analysis to fetch some useful insights from data.
+The aim of the analysis is to fetch some useful insights from data.
 
 for e.g-> Which state has maximum Wheat Production between 2005 to 2015?
